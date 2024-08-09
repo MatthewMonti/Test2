@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bob Stevenson - Full Stack Developer</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        header {
+            background-color: #333;
+            color: #fff;
+            padding: 20px 0;
+            text-align: center;
+        }
+        header h1 {
+            margin: 0;
+            font-size: 2.5em;
+        }
+        section {
+            padding: 20px;
+            max-width: 800px;
+            margin: 0 auto;
+            background-color: #fff;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        h2 {
+            color: #333;
+            border-bottom: 2px solid #e0e0e0;
+            padding-bottom: 10px;
+            margin-bottom: 20px;
+        }
+        p {
+            line-height: 1.6;
+        }
+        footer {
+            text-align: center;
+            padding: 10px 0;
+            background-color: #333;
+            color: #fff;
+            margin-top: 20px;
+        }
+        a {
+            color: #333;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Bob Stevenson</h1>
+        <p>Full Stack Web Developer</p>
+    </header>
+
+    <section>
+        <h2>About Me</h2>
+        <p>
+            I'm Bob Stevenson, a full stack web developer with 10 years of experience at Amazon. 
+            I specialize in building robust, scalable web applications, with a deep understanding of both front-end and back-end technologies.
+        </p>
+
+        <h2>Skills</h2>
+        <p>
+            - JavaScript, React, Node.js <br>
+            - HTML5, CSS3, Responsive Design <br>
+            - MongoDB, SQL, RESTful APIs <br>
+            - Cloud Services: AWS, Azure <br>
+            - Version Control: Git, GitHub
+        </p>
+
+        <h2>Contact</h2>
+        <p>
+            Feel free to reach out via email: <a href="mailto:bob.stevenson@example.com">bob.stevenson@example.com</a>
+        </p>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Bob Stevenson. All rights reserved.</p>
+    </footer>
+</body>
+</html>
